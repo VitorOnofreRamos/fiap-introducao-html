@@ -1,0 +1,18 @@
+body{
+    background-color: #373736;
+    color: #ffffff;
+    font-family: Arial;
+}
+
+#title{
+    font-weight: bolder;
+    padding-bottom: 10px;
+    width: 500px;
+    border: solid 1px #ff0000;
+}
+
+.conteiner{
+    padding: 2px;
+    width: 100px;
+    border: solid 1px #1900ff;
+}
